@@ -1,0 +1,64 @@
+# Project Documentation – Art History Explorer
+
+## 1. Project Overview
+
+Art History Explorer is a frontend web application designed to showcase famous artworks with an interactive and modern UI.
+
+---
+
+## 2. Architecture
+
+Frontend Only Application:
+
+- HTML → Structure
+- CSS → Styling & Layout
+- JavaScript → Interactivity
+
+No backend used.
+
+---
+
+## 3. Core Components
+
+### Navbar
+Sticky glass effect navigation.
+
+### Hero Section
+Gradient-based startup-style landing section.
+
+### Gallery Section
+Grid-based artwork display.
+
+### Filter System
+Uses class-based filtering.
+
+### Search Feature
+JavaScript text matching via DOM.
+
+### Modal System
+Dynamic content injection using JS.
+
+---
+
+## 4. Performance Optimization
+
+- Optimized image sizing
+- Responsive grid layout
+- Lightweight vanilla JS
+
+---
+
+## 5. Challenges Faced
+
+- Broken image links
+- UI responsiveness
+- Filter + Search interaction logic
+
+---
+
+## 6. Future Scope
+
+- Backend integration
+- User accounts
+- Artwork database
+- API integration (Met Museum API)
